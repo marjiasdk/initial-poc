@@ -18,6 +18,15 @@ This tool is a **Streamlit-based web application** designed for assessing datase
 
 ---
 
+## Usage
+
+1. Install Dependencies: Run pip install -r requirements.txt to install the required packages.
+2. Set Up the API Key: Place your Cerebras API key in a .env file in the following format: ``CEREBRAS_API_KEY=your_api_key_here``
+3. Run the Application: Start the Streamlit app by running: ``streamlit run app.py``
+4. Access the Tool: Once running, you can access the tool in your web browser at http://localhost:8501.
+
+---
+
 ## Example Workflow
 
 1. **Data Upload**: Upload your dataset in CSV format for analysis.
