@@ -27,6 +27,12 @@ This tool is a **Streamlit-based web application** designed for assessing datase
 
 ---
 
+## Notes on Deployment
+
+This tool is designed for local testing and development, leveraging the Cerebras Cloud API for enhanced inference speeds. If you wish to deploy it to a cloud service (such as Streamlit Cloud), please ensure that sensitive information, particularly the API key, remains secure. Using environment variables and never hardcoding the API key directly into any public repositories is strongly recommended.
+
+---
+
 ## Demo
 
 [Watch the Demo Video on Google Drive](https://drive.google.com/yourvideolink)
