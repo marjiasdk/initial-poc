@@ -14,5 +14,14 @@ This tool is a **Streamlit-based web application** that provides a comprehensive
 - **Streamlit**: Provides an interactive web application interface.
 - **Python and Pandas**: For data processing and analysis.
 
+## Example Workflow
+- Data Upload: Upload a CSV dataset for analysis.
+- Select Analysis Options: Choose relevance, PII, or bias checks, or run all for a full analysis.
+- Review Results: Examine the interactive metrics and compliance results.
+- Download Report: Export the summary report as a CSV.
+
 ## Demo
-[Demo Video on Google Drive](https://drive.google.com/yourvideolink)
+[Demo Video on Google Drive]([https://drive.google.com/file/d/10CIBxk2GZ83oPvtkOco0QmSTAI-Z9hyT/view?usp=sharing])
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
