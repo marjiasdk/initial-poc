@@ -21,7 +21,7 @@ This tool is a **Streamlit-based web application** that provides a comprehensive
 - Download Report: Export the summary report as a CSV.
 
 ## Demo
-[Demo Video on Google Drive]([https://drive.google.com/file/d/10CIBxk2GZ83oPvtkOco0QmSTAI-Z9hyT/view?usp=sharing])
+[Demo Video on Google Drive](https://drive.google.com/file/d/10CIBxk2GZ83oPvtkOco0QmSTAI-Z9hyT/view?usp=sharing)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
