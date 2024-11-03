@@ -1,0 +1,13 @@
+customer_message,name,contact_info,customer_intent
+Hey! Can you help me with my order?,John Doe,,order inquiry
+My email is johndoe@example.com,Jane Doe,johndoe@example.com,
+This product sucks!,,,complaint
+Where is my stuff? I'm f***ing tired of waiting!,Mike,,complaint
+I need info on product X for support,,,product inquiry
+Here's my SSN: 123-45-6789,Sarah,123-45-6789,
+Random unrelated text here,Random User,No contact,irrelevant
+,,,order inquiry
+Can I cancel my subscription please?,Tom,,cancellation
+"My name is Mike, and my phone number is 555-1234",Alice Smith,555-1234,personal inquiry
+Support needed,Unknown,,
+Another random sentence with no purpose,Placeholder,unknown@example.com,unknown
