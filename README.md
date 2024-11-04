@@ -44,7 +44,7 @@ This tool is designed for local testing and development, leveraging the Cerebras
 
 ## Demo
 
-[Watch the Demo Video on Google Drive](https://drive.google.com/yourvideolink)
+[Watch the Demo Video on Google Drive](https://drive.google.com/file/d/10CIBxk2GZ83oPvtkOco0QmSTAI-Z9hyT/view?usp=sharing)
 
 ---
 
