@@ -20,7 +20,7 @@ from checks.compliance_check import detect_email, detect_ssn, detect_phone
 from checks.bias_check import detect_language_bias_with_inference, detect_gender_bias_with_inference
 from report_generator import generate_report
 
-st.title("Dataset Quality and Compliance Tool")
+st.title("Evadence: Ensuring Quality, Compliance, and Ethical Standards for AI Training Data")
 
 # File upload
 uploaded_file = st.file_uploader("Upload your dataset (CSV format)", type="csv")
