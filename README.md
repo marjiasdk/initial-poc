@@ -1,6 +1,6 @@
-# Dataset Quality and Compliance Tool
+# Evadence: Ensuring Quality, Compliance, and Ethical Standards for AI Training Data
 
-This tool is a **Streamlit-based web application** designed for assessing dataset quality, compliance, and bias detection. It leverages the **Cerebras Cloud API** for high-speed inference, making it an efficient solution for analyzing dataset suitability for AI model training, as well as identifying potential compliance and ethical concerns.
+Evadence is a tool designed to help organizations validate that their datasets meet essential quality, compliance, and ethical standards for AI training. Focusing on purpose-fit data, Evadence analyzes whether a dataset is relevant, compliant, and unbiased, ensuring it’s suitable for the AI model’s intended purpose.
 
 ---
 
